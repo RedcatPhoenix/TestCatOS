@@ -1,2 +1,3 @@
 # Hi, Welcome to the official CatOS GitHub!
-This company is owned by @TheRealRedPCat
+Founder of CatOS: TheRealRedPCat
+Co-Founder of CatOS: ItsMeRTXYZ
